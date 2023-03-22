@@ -1,0 +1,10 @@
+﻿  Ex5 Router.cpp
+C:\Users\lengion\source\repos\Network_Technology_and_Application\Network_Technology_and_Application\Router.h(43,2): warning C4091: “typedef ”: 没有声明变量时忽略“IP_Data”的左侧
+C:\Users\lengion\source\repos\Network_Technology_and_Application\Network_Technology_and_Application\Router.h(49,2): warning C4091: “typedef ”: 没有声明变量时忽略“IP_Packet”的左侧
+C:\Users\lengion\source\repos\Network_Technology_and_Application\Network_Technology_and_Application\Ex5 Router.cpp(125,21): warning C4244: “=”: 从“u_long”转换到“WORD”，可能丢失数据
+C:\Users\lengion\source\repos\Network_Technology_and_Application\Network_Technology_and_Application\Ex5 Router.cpp(165,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\lengion\source\repos\Network_Technology_and_Application\Network_Technology_and_Application\Ex5 Router.cpp(187,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\lengion\source\repos\Network_Technology_and_Application\Network_Technology_and_Application\Ex5 Router.cpp(195,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\lengion\source\repos\Network_Technology_and_Application\Network_Technology_and_Application\Ex5 Router.cpp(196,63): warning C4554: “&”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+C:\Users\lengion\source\repos\Network_Technology_and_Application\Network_Technology_and_Application\Ex5 Router.cpp(220,20): warning C4018: “<”: 有符号/无符号不匹配
+  Network_Technology_and_Application.vcxproj -> C:\Users\lengion\source\repos\Network_Technology_and_Application\Debug\Network_Technology_and_Application.exe
